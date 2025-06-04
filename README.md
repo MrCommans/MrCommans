@@ -1,0 +1,14 @@
+<h1 align="center">Olá, 👋, Eu sou o Danilo Commans</h1>
+<h3 align="center">Tenho 27 anos e moro em São Paulo, Brasil. Trabalho desde os 16 anos, o que me ensinou desde cedo sobre responsabilidade, comprometimento e resiliência. Iniciei minha trajetória profissional como assistente administrativo em uma empresa de pós-graduação, onde lidava com pagamentos de funcionários e fornecedores. Aos 18 anos, entrei para o setor de restaurantes como garçom e, aos 20, migrei para a cozinha. Foram 7 anos intensos nesse ambiente, que me proporcionaram uma sólida experiência em trabalho em equipe, organização e disciplina. Aos 27 anos, decidi dar um novo rumo à minha carreira e me matriculei no curso de Analista de Qualidade da TripleTen. Desde então, venho me especializando em garantir a qualidade de software por meio da execução de testes, análise de requisitos, elaboração de testes para sistemas diversos (como planejamento de rotas) e produção de relatórios de bugs claros e detalhados. Hoje, sou capaz de realizar testes manuais em aplicações web, conduzir testes de interface (UI) e trabalhar com APIs utilizando o Postman. Tenho facilidade para aprender, sou comprometido com os resultados e colaboro bem em equipe. Atualmente, busco uma oportunidade na área de QA para aplicar meus conhecimentos, continuar me desenvolvendo profissionalmente e contribuir com soluções de qualidade no desenvolvimento de software.</h3>
+
+- 🌱 Estudando no momento **Bootcamp TripleTen: Analista de QA**
+
+- 📫 E-mail **luis_commans@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
