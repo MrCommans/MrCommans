@@ -1,3 +1,4 @@
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilocommansqa/)
 <h1 align="center">Olá, 👋, Eu sou o Danilo Commans</h1>
 <h3 align="center">Tenho 27 anos e sou de São Paulo, Brasil. Desde os 16 anos trabalho profissionalmente, o que me ensinou desde cedo sobre disciplina, foco e trabalho em equipe — habilidades que desenvolvi ao longo de anos atuando em cozinhas de alta pressão.
 
