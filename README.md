@@ -31,9 +31,6 @@ Sou uma pessoa dedicada, com aprendizado rápido e comprometida com resultados d
 <p align="left">
 </p>
 
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/bkToflUeTPgAAAAC/quality.gif"  />
 
 ###
 
