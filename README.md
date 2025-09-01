@@ -18,7 +18,9 @@ Durante o bootcamp, consolidei conhecimentos práticos e teóricos nas principai
 
 Sobre Mim 🌟
 
-Sou uma pessoa dedicada, com aprendizado rápido e comprometida com a entrega de resultados de alta qualidade. Minha experiência prévia em ambientes dinâmicos me ensinou a importância da colaboração e da precisão. Atualmente, estou em busca da minha primeira oportunidade na área de QA, onde possa aplicar meus conhecimentos, contribuir para o sucesso da equipe e continuar evoluindo como profissional de tecnologia.</h3>
+Sou uma pessoa dedicada, com aprendizado rápido e comprometida com a entrega de resultados de alta qualidade. Minha experiência prévia em ambientes dinâmicos me ensinou a importância da colaboração e da precisão. Atualmente, estou em busca da minha primeira oportunidade na área de QA, onde possa aplicar meus conhecimentos, contribuir para o sucesso da equipe e continuar evoluindo como profissional de tecnologia.
+
+Estou animado para fazer parte do universo tech e contribuir com projetos incríveis! 🚀</h3>
 
 
 
