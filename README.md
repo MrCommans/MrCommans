@@ -1,28 +1,24 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilocommansqa/)
 <h1 align="center">Olá, 👋, Eu sou o Danilo Commans</h1>
-<h3 align="center">Tenho 27 anos e sou de São Paulo, Brasil. Desde os 16 anos trabalho profissionalmente, o que me ensinou desde cedo sobre disciplina, foco e trabalho em equipe — habilidades que desenvolvi ao longo de anos atuando em cozinhas de alta pressão.
+<h3 align="center">Tenho 27 anos e sou de São Paulo, Brasil. Com mais de uma década de experiência profissional, comecei minha carreira aos 16 anos em cozinhas de alta pressão, onde desenvolvi habilidades como disciplina, foco e trabalho em equipe. Apaixonado por tecnologia, decidi fazer a transição para a área de Qualidade de Software e, recentemente, concluí com sucesso o Bootcamp de Análise de QA da TripleTen, alcançando 100% de aproveitamento em todas as sprints teóricas e práticas.
 
-Movido por uma paixão antiga por tecnologia, decidi dar um novo rumo à minha vida profissional e iniciei minha transição de carreira para a área de Qualidade de Software. Atualmente, estou em formação no Bootcamp de Análise de QA da Tripleten, onde já concluí todas as sprints teóricas e práticas com 100% de aproveitamento.
+Minhas Habilidades em QA 🚀
 
-Durante essa jornada, adquiri experiência nas principais áreas do ciclo de testes:
+Durante o bootcamp, consolidei conhecimentos práticos e teóricos nas principais áreas do ciclo de testes:
 
-✅ Análise de Requisitos e Documentação de Testes (design e criação de casos)
+✅ Análise de Requisitos e Documentação: Design e criação de casos de teste detalhados
+🐞 Rastreamento de Bugs: Localização e documentação de defeitos com Jira, priorizando UX/UI
+🌐 Testes Manuais: Validação de aplicações web com atenção aos detalhes
+🔌 Testes de API: Uso de Postman para testes de APIs e compreensão de protocolos HTTP
+📱 Testes Mobile: Experiência com Android Studio para validação de aplicativos móveis
+🧪 Tipos de Testes: Execução de testes de fumaça, regressão e elaboração de relatórios objetivos
+🗄️ Banco de Dados: Manipulação com SQL, PostgreSQL e linha de comando
+🤖 Automação de Testes: Introdução a Python, Selenium, Pytest e padrão Page Object Model (POM)
+🛠️ Ferramentas de Gestão: Familiaridade com Jira e GitHub para gestão de projetos e versionamento
 
-🐞 Localização e rastreamento de bugs, com uso do Jira e foco em UX/UI
+Sobre Mim 🌟
 
-🌐 Testes manuais em aplicações Web
-
-🔌 Testes de API com Postman e entendimento de protocolos HTTP
-
-📱 Testes de Aplicativos Móveis com Android Studio
-
-🧪 Testes de Fumaça, Regressão e elaboração de relatórios claros e objetivos
-
-🗄️ Manipulação de banco de dados com SQL, PostgreSQL e linha de comando
-
-🤖 Introdução à Automação de Testes e boas práticas para pipelines
-
-Sou uma pessoa dedicada, com aprendizado rápido e comprometida com resultados de qualidade. Neste momento, busco minha primeira oportunidade na área de QA, onde possa aplicar meus conhecimentos, agregar valor à equipe e continuar evoluindo como profissional de tecnologia.</h3>
+Sou uma pessoa dedicada, com aprendizado rápido e comprometida com a entrega de resultados de alta qualidade. Minha experiência prévia em ambientes dinâmicos me ensinou a importância da colaboração e da precisão. Atualmente, estou em busca da minha primeira oportunidade na área de QA, onde possa aplicar meus conhecimentos, contribuir para o sucesso da equipe e continuar evoluindo como profissional de tecnologia.</h3>
 
 
 
